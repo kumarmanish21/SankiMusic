@@ -13,22 +13,22 @@
         "API_ID": {
             "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑰𝑫",
             "required": true,
-            "value": "5700169"
+            "value": "13960566"
         },
         "API_HASH": {
             "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑯𝒂𝒔𝒉",
             "required": true,
-            "value": "90bd34c99774dff27154fa7070795de1"
+            "value": "e86081cddc3b77fd6f2eb98efc07c72d"
         },
         "BOT_TOKEN": {
             "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑩𝒐𝒕 𝑻𝒐𝒌𝒆𝒏",
             "required": true,
-            "value": "6203873183:AAGTGjiPsF6zZU_pZFLqIbJ8lbllBnI7C00"
+            "value": "5972570717:AAEM4zNw1Vbyb0Os1qM6hH5-1KgAnNW12f8"
         },
         "STRING_SESSION": {
             "description": "𝑬𝒏𝒕𝒆𝒓 𝑷𝒚𝒓𝒐𝒈𝒓𝒂𝒎 𝑺𝒕𝒓𝒊𝒏𝒈 𝑺𝒔𝒆𝒔𝒔𝒊𝒐𝒏 𝑶𝒇 𝒀𝒐𝒖𝒓 𝑨𝒔𝒔𝒊𝒔𝒕𝒂𝒏𝒕 𝑰𝑫",
             "required": true,
-            "value": "BABW-kkAgljJqOvAZJdvwvYIATCyZNUKC0Y0aVPkkKnRG_6tqC60Uwm43PgYcLj8qhZaU3UakIn6MUldafuP5DBzk5zYcxhyWvff8n-1PNlq_0WOe9uHbPFd_L0LDyK-WKsbeS9_RSxHrfIfPMKe5sleYMo7jpXmdulKVxZxxw2EPTjpwqIc5sV7TrWtLMp55-qiZzTn69PhAMgjdPoImN22l3qax3b34PrNMqHg0Zg45tZucpsS-vLiR7aL_WLvzyQlW9TkfmIYCeI7ibsO9sbelzr-XBcV39TvuaRIY5OCFbPSxpA6bcqPCaOyXeKoulLtiC75S_DOq3ulNaOth7OdZ7LBvAAAAABHohR5AA"
+            "value": "AQAHsBErZ89wzmEYbDmmbcJTqfxyCDJURaMLVT7KDMFTINxiMrcDPD_WcMRtcwvR6kuOjBbQIwverwVwFOT22XQe8LHva5XBsNmC-hVdlqNdd77mCmCH84p0iJPNqe2g0cvKl5I2eFXyclXkCt4zAfr9QCmKn5Xt9vAshHmSfsVaKm9--2qyhYwqC6yO9V0uFG0lhtCH8yjAWik6zF1IkPtT-peqGF9rsAEAgL5Q9q1WDN9ldLCyxoW4HiyMyXtQkSUTK6yUXD3yInd9PZ9O1AQ7zDV3uZ9khQ6_MB6l3IS3efFJRU9qvB-tFrH3nVVez76tjcVb2nXgadMSBfZzJl1rAAAAASuxKsAA"
         },
         "DURATION_LIMIT": {
             "description": "𝑺𝒐𝒏𝒈 𝑫𝒖𝒓𝒂𝒕𝒊𝒐𝒏 𝑳𝒊𝒎𝒊𝒕 (𝑴𝒊𝒏𝒖𝒕𝒆𝒔)",
@@ -42,12 +42,12 @@
         "OWNER_ID": {
             "description": "𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎 𝑼𝒔𝒆𝒓 𝑰𝑫 𝑶𝒇 𝑩𝒐𝒕 𝑶𝒘𝒏𝒆𝒓",
             "required": true,
-            "value": "1201804409"
+            "value": "5027998400"
         },
         "LOG_GROUP_ID": {
             "description": "𝑩𝒐𝒕 𝑳𝒐𝒈𝒈𝒆𝒓 𝑮𝒓𝒐𝒖𝒑 𝑰𝑫",
             "required": true,
-            "value": "-1001251546800"
+            "value": "-1001272712758"
         },
         "MUSIC_BOT_NAME": {
             "description": "𝑴𝒖𝒔𝒊𝒄 𝑩𝒐𝒕 𝑵𝒂𝒎𝒆 (𝑼𝒔𝒆 𝑵𝒐𝒓𝒎𝒂𝒍 𝑭𝒐𝒏𝒕)",
