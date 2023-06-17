@@ -1,5 +1,5 @@
+
 aiofiles
-aiohttp
 asyncio
 dnspython
 ffmpeg-python
@@ -19,6 +19,9 @@ requests
 spotipy
 tgcrypto
 numpy
+Flask==2.2.2
+gunicorn==20.1.0
+aiohttp==3.8.1
 git+https://github.com/adityaxserver/downloader
 git+https://github.com/Kaal-xD/kaal-search
 git+https://github.com/Kaal-xD/kaal-speed-test
